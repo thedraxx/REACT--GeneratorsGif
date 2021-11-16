@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 export const AddCategory = ( {setCategories} ) => {
 
-    const [inputValue, setinputValue] = useState("");
+    const [inputValue, setinputValue] = useState("Search a GIF!");
 
     const handeInputChange = (e) =>{
         setinputValue(e.target.value)

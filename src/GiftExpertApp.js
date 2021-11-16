@@ -8,7 +8,7 @@ export function GiftExpertApp()
     const [categories, setCategories] = useState([""])
     return (
         <>
-            <h2 className ="tittle">GIF EXPERT</h2>
+            <h2 className ="tittle">GIF GENERATOR</h2>
             <AddCategory setCategories = {setCategories}/>
 
             <hr />
