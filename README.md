@@ -1,8 +1,5 @@
 <h1 align="center">Bienvenido 👋</h1>
 <p>
-  <a href="LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
   <a href="https://twitter.com/ThedraxxWorld" target="_blank">
     <img alt="Twitter: Rodrigo Tesone" src="https://img.shields.io/twitter/follow/ThedraxxWorld.svg?style=social" />
   </a>
@@ -10,7 +7,6 @@
 
 > El repositorio consiste en un generador de Gif's, tiene la posiblidad de generar uno de cualquier tipo, usando la API de GIPHY.</br>
 
-![Demo](Demo.jpeg)
 
 ## 📂 Clonar Repositorio
 
