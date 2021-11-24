@@ -32,9 +32,9 @@ Cualquier sugerencia de arquitectura de código,pregunta o problema enviar mail 
 
 👤 **Francisco Cerrano**
 
-* Twitter: [@rodrigotesone97](https://twitter.com/ThedraxxWorld)
-* Github: [rodrigotesone1997](https://github.com/thedraxx)
-* LinkedIn: [rodrigo-tesone](https://www.linkedin.com/in/cerranofrancisco/)
+* Twitter: [@thedraxxworld](https://twitter.com/ThedraxxWorld)
+* Github: [thedraxx](https://github.com/thedraxx)
+* LinkedIn: [Francisco Isaac Cerrano](https://www.linkedin.com/in/cerranofrancisco/)
 
 ## ⚙️ Uso
 
