@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> El repositorio consiste en un portafolio personal, contiene la posibilidad de descargar un CV, enviar un email y ver las habilidades tecnicas.</br>
+> El repositorio consiste en un generador de Gif's, tiene la posiblidad de generar uno de cualquier tipo, usando la API de GIPHY.</br>
 
 ![Demo](Demo.jpeg)
 
@@ -39,6 +39,15 @@ Cualquier sugerencia de arquitectura de código,pregunta o problema enviar mail 
 * Twitter: [@rodrigotesone97](https://twitter.com/ThedraxxWorld)
 * Github: [rodrigotesone1997](https://github.com/thedraxx)
 * LinkedIn: [rodrigo-tesone](https://www.linkedin.com/in/cerranofrancisco/)
+
+## ⚙️ Uso
+
+1. Escribir en el buscador la serie/objeto/animal a generar.
+2. Esperar los resultados.
+
+## 🤝 Contribuciones y Agradecimientos
+
+Agradezco a Juan Herrera, tutor y responsable de que haya sido capaz de generar esto. 
 
 ## 📝 Licencia
 
