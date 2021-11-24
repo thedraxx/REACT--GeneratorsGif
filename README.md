@@ -13,7 +13,7 @@
 react: 17.0.2
 ```
 
-## 🔮 Futuro del Proyecto
+## 🔮 Futuro del Proyecto 
 
 Se espera que a medida que avence en mis conocimientos y experiencia, la pagina se ira actualizando en relacion a estos.
 
