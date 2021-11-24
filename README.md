@@ -8,12 +8,6 @@
 > El repositorio consiste en un generador de Gif's, tiene la posiblidad de generar uno de cualquier tipo usando la API de GIPHY.</br>
 
 
-## 📂 Clonar Repositorio
-
-```
-git clone https://github.com/rodrigotesone1997/Scrapper_Sueldos_Municipales.git
-```
-
 ## ⚛️ Versión de React
 
 ```
