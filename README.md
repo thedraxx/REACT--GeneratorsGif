@@ -7,7 +7,6 @@
 
 > El repositorio consiste en un generador de Gif's, tiene la posiblidad de generar uno de cualquier tipo usando la API de GIPHY.</br>
 
-
 ## ⚛️ Versión de React
 
 ```
@@ -41,5 +40,4 @@ Agradezco a Juan Herrera, tutor y responsable de que haya sido capaz de generar 
 
 ## 📝 Licencia
 
-Copyright © 2021 [Rodrigo](https://github.com/thedraxx).<br />
-This project is [MIT](LICENSE) licensed.
+Copyright © 2021 [Francisco](https://github.com/thedraxx).<br />
