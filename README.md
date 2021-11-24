@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> El repositorio consiste en un generador de Gif's, tiene la posiblidad de generar uno de cualquier tipo, usando la API de GIPHY.</br>
+> El repositorio consiste en un generador de Gif's, tiene la posiblidad de generar uno de cualquier tipo usando la API de GIPHY.</br>
 
 
 ## 📂 Clonar Repositorio
