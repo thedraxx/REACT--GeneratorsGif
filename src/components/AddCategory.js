@@ -3,12 +3,10 @@ import PropTypes from 'prop-types';
 
 export const AddCategory = ( {setCategories} ) => {
 
-    const [inputValue, setinputValue] = useState("Search a GIF!");
+    const [inputValue, setinputValue] = useState("");
 
     const handeInputChange = (e) =>{
         setinputValue(e.target.value)
-
-        console.log('handeInputChange llamado')
     }
 
     const handleSubmit = (e) => {

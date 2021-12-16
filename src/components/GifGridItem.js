@@ -5,7 +5,7 @@ export const GifGridItem = ({tittle,url}) => {
 
     return (
         <div className = "card animate__animated animate__fadeIn">
-           <img src = {url} alt={tittle} />
+           <img className='Gifs' src = {url} alt={tittle} />
         </div>
     )
 }

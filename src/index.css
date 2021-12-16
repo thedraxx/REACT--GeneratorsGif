@@ -1,18 +1,26 @@
-*{
+* {
     font-family: monospace;
     font-size: 30px;
     background-color: rgb(243, 243, 243);
 }
 
-.card-grid{
+.Gifs {
+    width: auto;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.card-grid {
     display: flex;
-    flex-direction:row;
+    flex-direction: row;
     flex-wrap: wrap;
     width: auto;
 }
 
 .card {
-    align-content:center;
+    align-content: center;
     border: 0px solid rgb(24, 24, 24);
     border-radius: 15px;
     margin: auto;
@@ -40,18 +48,18 @@
     margin-bottom: 50px;
 }
 
-h3{
+h3 {
     font-size: 30px;
     margin: auto;
     padding: 5%;
     font-size: 40px;
     text-align: center;
     color: #17183B;
-    
+
 
 }
 
-p{
+p {
     font-size: 30px;
     margin: auto;
     padding: 5%;
@@ -59,7 +67,7 @@ p{
     text-align: center;
 }
 
-.tittle{
+.tittle {
     background-color: #FF4F79;
     padding: 2%;
     margin: auto;
@@ -72,8 +80,7 @@ p{
     -o-border-radius: 10px;
 }
 
-input
-{
+input {
     text-align: center;
     width: 100%;
     font-size: 1.3rem;
@@ -89,30 +96,30 @@ input
 
 /* MediaQuery */
 
-@media (max-width: 947px){
- .div card-grid{
-        display: flex;
-        flex-direction:row;
-        flex-wrap: wrap;
-        width: 50%;
-        border-radius: 20px;
-        -webkit-border-radius: 20px;
-        -moz-border-radius: 20px;
-        -ms-border-radius: 20px;
-        -o-border-radius: 20px;
+@media (max-width: 947px) {
+    .Gifs {
+        width: 100%;
+        padding: auto;
+        margin: 0;
+        border-radius: 30px;
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        -ms-border-radius: 30px;
+        -o-border-radius: 30px;
 }
+
 }
 
 @media (max-width: 690px) {
-    .div card-grid{
-        display: flex;
-        flex-direction:row;
-        flex-wrap: wrap;
-        width: 30%;
-        border-radius: 40px;
-        -webkit-border-radius: 40px;
-        -moz-border-radius: 40px;
-        -ms-border-radius: 40px;
-        -o-border-radius: 40px;
+  
+    .Gifs {
+        width: 100%;
+        padding: auto;
+        margin: 0;
+        border-radius: 30px;
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        -ms-border-radius: 30px;
+        -o-border-radius: 30px;
 }
 }
