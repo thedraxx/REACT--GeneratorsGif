@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { useFetchGifs } from '../hooks/useFetchGifs';
 import { GifGridItem } from './GifGridItem';
+import '../index.css';
 
 export const  GifGrid = ({category}) => {
 
@@ -9,6 +10,7 @@ export const  GifGrid = ({category}) => {
 
     return (
         <>
+        <div className='Contenedor-titulo'>
             <h3 className = "card animate__animated animate__fadeIn">{category.toUpperCase()}</h3>
        
             {loading && <p className= "card animate__animated animate__flash">Loading</p> }
@@ -23,7 +25,7 @@ export const  GifGrid = ({category}) => {
                     ))
                 }
             </div>
-
+        </div>
         </>
     )
 }
