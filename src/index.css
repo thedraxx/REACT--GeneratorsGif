@@ -9,7 +9,7 @@
     font-size: 50px;
     margin-bottom: 50px;
     background-color: #FF4F79;
-    padding: 2%;
+    padding: 5%;
     margin: auto;
     text-align: left;
     color: #ffffff;
@@ -44,6 +44,7 @@ input {
     color: #181818;
     background-color: rgb(255, 255, 255);
     border: black;
+    margin-top: 20px;
     border-radius: 15px;
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;

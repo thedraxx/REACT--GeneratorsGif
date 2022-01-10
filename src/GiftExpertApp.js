@@ -9,7 +9,6 @@ export function GiftExpertApp({defaultCategories = []})
     return (
         <>
             <h2 className ="tittle">GIF GENERATOR</h2>
-            <h3 className= "subtitle"> Search a Gif!</h3>
             <AddCategory setCategories = {setCategories}/>
 
             <hr />

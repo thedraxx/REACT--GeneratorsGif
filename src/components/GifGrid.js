@@ -13,7 +13,7 @@ export const  GifGrid = ({category}) => {
         <div className='Contenedor-titulo'>
           
        
-            {loading && <p className= "card animate__animated animate__flash">Loading</p> }
+            {loading && <p className= "card animate__animated animate__flash"></p> }
        
             <div className="card-grid">
                 {
